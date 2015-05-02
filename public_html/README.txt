@@ -1,0 +1,2 @@
+To run the application, extract all files to a folder and open the index.html file using a browser.
+To play the game, use the arrow keys to maneuver the character around the screen, avoiding the passing bugs, as this will reset the game.
